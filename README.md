@@ -1,3 +1,2 @@
-# assignment1
-Assignment just to say hello world
+# My First Repository Just To Say Hello World!!! 😉
 Run the file to say hello world
